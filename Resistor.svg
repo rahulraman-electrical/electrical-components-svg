@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3cm"
+   height="1cm"
+   viewBox="0 0 29.999999 9.9999997"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Resistor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     width="3mm"
+     units="cm"
+     inkscape:zoom="2.9362514"
+     inkscape:cx="52.107255"
+     inkscape:cy="19.582792"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,9.9999996"
+       orientation="0,113.38583"
+       id="guide824" />
+    <sodipodi:guide
+       position="29.999999,9.9999996"
+       orientation="37.795276,0"
+       id="guide826" />
+    <sodipodi:guide
+       position="29.999999,0"
+       orientation="0,-113.38583"
+       id="guide828" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-37.795276,0"
+       id="guide830" />
+    <inkscape:grid
+       units="mm"
+       spacingx="0.99999996"
+       spacingy="0.99999996"
+       type="xygrid"
+       id="grid832" />
+    <sodipodi:guide
+       position="2.4999999,0"
+       orientation="-1,0"
+       id="guide7755"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Resistor"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.250073;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.5,7.5001082 h 2.4999999 l 2.5,-2.2217137 V 9.7218217 L 9.999999,7.5001082 12.5,5.2783945 V 9.7218217 L 15,7.5001083 17.5,5.2783945 V 9.7218217 L 19.999999,7.5001083 22.499998,5.2783945 V 9.7218217 L 25,7.5001082 h 2.5"
+       id="path22745"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:label="Component" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.915251"
+       y="3.8029273"
+       id="text20085"
+       inkscape:label="Label"><tspan
+         sodipodi:role="line"
+         id="tspan20083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="14.915251"
+         y="3.8029273">R</tspan></text>
+  </g>
+</svg>
